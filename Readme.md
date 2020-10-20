@@ -7,7 +7,7 @@
 ## I have a degree in mechatronic engineering. 💻 in Brazil 🌎
 
 
-- 🌱 I’m currently learning about TDD (unit tests), docker and Using Python for Automation .
+- 🌱 I’m currently learning about Devops concepts, docker and Using Python for datascience .
 
 - 💻 My code languages' favorites are Python and Javascript. (But I know about C++ too). =D
 
