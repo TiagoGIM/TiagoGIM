@@ -11,4 +11,6 @@
 
 - 💻 My code languages' favorites are Python and Javascript. (But I know about C++ too). =D
 
+- Don't ask me why but now I'm coding with Java and some times I think it's nice.
+
 - ⚡ Fun fact: I ctrl+c ctrl+v this "README.md" from @carolquiterio.
