@@ -13,6 +13,13 @@
 
 - ⚡ Fun fact:  Don't ask me why but now I'm coding with Java and some times I think it's nice.
  ##
+
+ <div><br>
+  <a href="https://github.com/TiagoGim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoGim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=35&color=currentColor">
@@ -24,13 +31,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
 </div>
-
-
- <div><br>
-  <a href="https://github.com/TiagoGim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoGim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 ![Snake animation](https://github.com/TiagoGim/TiagoGim/blob/output/github-contribution-grid-snake.svg)
