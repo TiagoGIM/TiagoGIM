@@ -22,7 +22,9 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=35&color=currentColor">
+  <img align="center" alt="Rafa-Python" height="35" width="45" src="https://icongr.am/devicon/java-original.svg">
+  <img align="center" alt="Rafa-Python" height="32" width="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
