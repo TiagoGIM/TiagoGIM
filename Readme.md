@@ -7,9 +7,9 @@
 ## I have a degree in mechatronic engineering. 💻 in Brazil 🌎
 
 
-- 🌱 I’m currently learning about Devops concepts, docker and Using Python for datascience .
+- 🌱 I’m currently learning about Devops concepts, aws, clean architecture and clean code.
 
-- 💻 My code languages' favorites are Python and Javascript. (But I know about C++ too). =D
+- 💻 My code languages' favorites are Python and Javascript. =D
 
 - ⚡ Fun fact:  Don't ask me why but now I'm coding with Java and some times I think it's nice.
  ##
