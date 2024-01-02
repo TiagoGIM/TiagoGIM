@@ -7,11 +7,11 @@
 ## I have a degree in mechatronic engineering. 💻 in Brazil 🌎
 
 
-- 🌱 I’m currently learning about Devops concepts, aws, clean architecture and clean code.
+- 🌱 I’m currently learning about DevOps concepts, aws, clean architecture, and clean code.
 
 - 💻 My code languages' favorites are Python and Javascript. =D
 
-- ⚡ Fun fact:  Don't ask me why but now I'm coding with Java and some times I think it's nice.
+- ⚡ Fun fact:  Don't ask me why but now I'm coding with Java and sometimes I think it's nice.
  ##
 
  <div><br>
